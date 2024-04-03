@@ -1,0 +1,6 @@
+Line 1: Hello, World!
+Line 2: This is a test file.
+Line 3: 42 is the answer to everything.
+Line 4: Appending additional content.
+Line 5: Python is fun!
+Line 6: 3.14 is a mathematical constant.
